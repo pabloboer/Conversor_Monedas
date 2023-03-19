@@ -88,11 +88,11 @@ Mensaje de confirmación y anuncio de cierre.
 
 ## Herramientas utilizadas
 
-    - JDK 19
-    - Eclipse -> Utilizado para escribir y debug el código fuente (descargar [aqui](https://www.eclipse.org/downloads/))
-    - Sublime Text 3 -> Utilizada para escribir Readme.md (descargar [aqui](https://www.sublimetext.com/3))
-    - Extensión de chrome "Recordadora de pantalla para Chrome" -> Utilizada para grabar la pantalla y crear los gifs (descargar [aqui](https://chrome.google.com/webstore/detail/screen-recorder-for-chrom/aloeieipaodpomkchfojicbelpcglnep))
-    - VLC -> Utilizada para editar grabación de pantalla para gifs (descargar [aqui](https://www.videolan.org/vlc/))
+ - JDK 19
+ - Eclipse -> Utilizado para escribir y debug el código fuente (descargar [aqui](https://www.eclipse.org/downloads/))
+ - Sublime Text 3 -> Utilizada para escribir Readme.md (descargar [aqui](https://www.sublimetext.com/3))
+ - Extensión de chrome "Recordadora de pantalla para Chrome" -> Utilizada para grabar la pantalla y crear los gifs (descargar [aqui](https://chrome.google.com/webstore/detail/screen-recorder-for-chrom/aloeieipaodpomkchfojicbelpcglnep))
+ - VLC -> Utilizada para editar grabación de pantalla para gifs (descargar [aqui](https://www.videolan.org/vlc/))
 
 
 
