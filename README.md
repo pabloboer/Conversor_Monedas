@@ -51,10 +51,10 @@ Si elige conversión de unidades:
 En todos los casos sólo se aceptan números y el caracter de punto flotante es el punto (.)
 No tiene caracter de separación de miles.
 Si no introduce un caracter numérico, genera ventana de error y vuelve a pedir valor de entrada.
-![Alt Text](gif de ventana de error)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/error.gif)
 
 Mensaje de confirmación y anuncio de cierre.
-![Alt Text](gif ventana de confirm y fin)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/fin.gif)
 
 
 # Conversor_Monedas
