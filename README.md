@@ -94,6 +94,14 @@ Mensaje de confirmación y anuncio de cierre.
  - Extensión de chrome "Recordadora de pantalla para Chrome" -> Utilizada para grabar la pantalla y crear los gifs (descargar [aqui](https://chrome.google.com/webstore/detail/screen-recorder-for-chrom/aloeieipaodpomkchfojicbelpcglnep))
  - VLC -> Utilizada para editar grabación de pantalla para gifs (descargar [aqui](https://www.videolan.org/vlc/))
 
+## Autor
+ - Pablo Boer [Linkedin](https://www.linkedin.com/in/pablo-boer-1616735a/)
+
+## Agradecimientos
+ ### Muchas gracias a:
+ - ONE Oracle next Education en conjunto con Alura Latam por el acceso a los cursos necesarios para completar este challenge.
+ - Génesys Rondón, Eric Monné, Paz Correa a través del Discord y los lives de youtube
+ - [Villanuevand](https://github.com/Villanuevand) por la plantilla para generar este Readme.md
 
 
 
