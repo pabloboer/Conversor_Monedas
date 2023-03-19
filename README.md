@@ -100,8 +100,8 @@ Mensaje de confirmación y anuncio de cierre.
 ## Agradecimientos
  ### Muchas gracias a:
  - ONE Oracle next Education en conjunto con Alura Latam por el acceso a los cursos necesarios para completar este challenge.
- - Génesys Rondón, Eric Monné, Paz Correa a través del Discord y los lives de youtube
- - [Villanuevand](https://github.com/Villanuevand) por la plantilla para generar este Readme.md
+ - Génesys Rondón, Eric Monné, Paz Correa y toda la comunidad a través del Discord y los lives de Youtube.
+ - [Villanuevand](https://github.com/Villanuevand) por la plantilla para generar este Readme.md.
 
 
 
