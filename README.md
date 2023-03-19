@@ -29,6 +29,14 @@ Se puede añadir al programa otros tipos de conversiones como temperatura, unida
 ## Antes de empezar
  - En este repositorio hay 2 soluciones de igual resultado pero diferente implementación. La primera, llamada Conversor_standard, que fue la primer implementación y luego a modo de ejercicio realice la implementación con la arquitectura Modelo-Vista-Controlador, llamada Conversor_MVC. 
  - En ambas soluciones se implementó como extra un conversor de unidades Imperiales a Métricas y viceversa. 
+      ### Extra:
+            - Convertir cm a pulgadas.
+            - Convertir km a millas.
+            - Convertir hectáreas a acres.
+            - Convertir litros a galones (US).
+            - Convertir gramos a onzas.
+            - Convertir kilogramos a libras.
+            
  - Se realizó según la lógica y estética de las tarjetas de trello, utilizando la clase JOPtionPane.
 
 ## Para empezar
@@ -39,21 +47,26 @@ Para poder ejecutar el programa debes tener instalado la maquina virtual de java
 
 ## Utilización
 
-Ejecutar el .jar, primero elegir el tipo de conversión.
+Ejecutar el .jar, primero elegir el tipo de conversión:
+
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_conversion.gif)
 
 Si elige conversión de Monedas:
+
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/monedas.gif)
 
 Si elige conversión de unidades:
+
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/metrico-imperial.gif)
  
 En todos los casos sólo se aceptan números y el caracter de punto flotante es el punto (.)
 No tiene caracter de separación de miles.
 Si no introduce un caracter numérico, genera ventana de error y vuelve a pedir valor de entrada.
+
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/error.gif)
 
 Mensaje de confirmación y anuncio de cierre.
+
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/fin.gif)
 
 
