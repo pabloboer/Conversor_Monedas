@@ -38,32 +38,25 @@ Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Funcionalidades
-
-      ### Requisitos:
-        El convertidor de moneda debe:
-
+  El programa permite según los requisitos:
         - Convertir de la moneda de tu país a Dólar
         - Convertir de la moneda de tu país  a Euros
         - Convertir de la moneda de tu país  a Libras Esterlinas
         - Convertir de la moneda de tu país  a Yen Japonés
         - Convertir de la moneda de tu país  a Won sul-coreano
-
-      Recordando que también debe ser posible convertir inversamente, es decir:
-
         - Convertir de Dólar a la moneda de tu país
         - Convertir de Euros a la moneda de tu país
         - Convertir de Libras Esterlinas a la moneda de tu país
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
 
-
-      ### Extra:
-            - Convertir cm a pulgadas.
-            - Convertir km a millas.
-            - Convertir hectáreas a acres.
-            - Convertir litros a galones (US).
-            - Convertir gramos a onzas.
-            - Convertir kilogramos a libras.
+  Además permite
+        - Convertir cm a pulgadas.
+        - Convertir km a millas.
+        - Convertir hectáreas a acres.
+        - Convertir litros a galones (US).
+        - Convertir gramos a onzas.
+        - Convertir kilogramos a libras.
 
 ## Utilización
 
