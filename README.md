@@ -76,7 +76,7 @@ Si elige conversión de unidades:
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/metrico-imperial.gif)
  
 En todos los casos sólo se aceptan números y el caracter de punto flotante es el punto (.)
-No tiene caracter de separación de miles.
+No ingresar caracter de separación de miles.
 Si no introduce un caracter numérico, genera ventana de error y vuelve a pedir valor de entrada.
 
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/error.gif)
@@ -86,5 +86,15 @@ Mensaje de confirmación y anuncio de cierre.
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/fin.gif)
 
 
-# Conversor_Monedas
-# Conversor_Monedas
+## Herramientas utilizadas
+
+    - JDK 19
+    - Eclipse -> Utilizado para escribir y debug el código fuente (descargar [aqui](https://www.eclipse.org/downloads/))
+    - Sublime Text 3 -> Utilizada para escribir Readme.md (descargar [aqui](https://www.sublimetext.com/3))
+    - Extensión de chrome "Recordadora de pantalla para Chrome" -> Utilizada para grabar la pantalla y crear los gifs (descargar [aqui](https://chrome.google.com/webstore/detail/screen-recorder-for-chrom/aloeieipaodpomkchfojicbelpcglnep))
+    - VLC -> Utilizada para editar grabación de pantalla para gifs (descargar [aqui](https://www.videolan.org/vlc/))
+
+
+
+
+

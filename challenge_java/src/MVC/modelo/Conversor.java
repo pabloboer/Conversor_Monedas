@@ -1,5 +1,8 @@
 package MVC.modelo;
 
+import java.text.NumberFormat;
+import java.util.Locale;
+
 public class Conversor{
 	
 	private Opciones opciones;
@@ -13,10 +16,10 @@ public class Conversor{
 	
 	private final double TASA_CM_IN= 1/2.54;
 	private final double TASA_KM_MIL= 1/1.61;
-	private final double TASA_HA_ACRES= 1/2.47;
-	private final double TASA_L_GAL= 3.785;
-	private final double TASA_GR_OZ= 28.35;
-	private final double TASA_KG_LB= 1/2.20462;
+	private final double TASA_HA_ACRES= 2.47;
+	private final double TASA_L_GAL= 1/3.785;
+	private final double TASA_GR_OZ= 1/28.35;
+	private final double TASA_KG_LB= 2.20462;
 	
 	
 	
@@ -139,12 +142,18 @@ public class Conversor{
 	}
 	
 	public String formateo(String d) {
-		return (String.valueOf((double)Math.round((toDouble(d))*100d)/100));
+		
+		Locale argentina = new Locale ("es", "AR");
+				
+		return (NumberFormat.getInstance(argentina).format((double)Math.round((toDouble(d))*100d)/100));
 	}
 
 	public String toString(double monto){
 
-		return ("son " + this.unidadSalida.getSimbolo()+ " " + monto + " " + this.unidadSalida.getNombre());
+		Locale argentina = new Locale ("es", "AR");
+		
+		
+		return ("son " + this.unidadSalida.getSimbolo()+ " " + NumberFormat.getInstance(argentina).format(monto) + " " + this.unidadSalida.getNombre());
 	}
 	
 
