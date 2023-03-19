@@ -38,7 +38,8 @@ Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Funcionalidades
-  El programa permite según los requisitos:
+
+### El programa permite según los requisitos:
         - Convertir de la moneda de tu país a Dólar
         - Convertir de la moneda de tu país  a Euros
         - Convertir de la moneda de tu país  a Libras Esterlinas
@@ -50,7 +51,7 @@ Para poder ejecutar el programa debes tener instalado la maquina virtual de java
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
 
-  Además permite
+### Además permite
         - Convertir cm a pulgadas.
         - Convertir km a millas.
         - Convertir hectáreas a acres.
