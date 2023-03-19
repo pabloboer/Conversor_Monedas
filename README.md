@@ -38,10 +38,10 @@ Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Utilización
- 1 - Ejecutar el .jar, primero elegir el tipo de conversión.
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif)
+Ejecutar el .jar, primero elegir el tipo de conversión.
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_conversion.gif)
  
- 2 - 
+ 
 
 # Conversor_Monedas
 # Conversor_Monedas
