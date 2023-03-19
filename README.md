@@ -35,7 +35,7 @@ Para poder ejecutar el programa debes tener instalado la maquina virtual de java
 ## Utilización
 
 ```
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif?raw=true)
 ```
 # Conversor_Monedas
 # Conversor_Monedas
