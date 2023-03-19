@@ -95,7 +95,7 @@ Mensaje de confirmación y anuncio de cierre.
  - VLC -> Utilizada para editar grabación de pantalla para gifs (descargar [aqui](https://www.videolan.org/vlc/))
 
 ## Autor
- - Pablo Boer [Linkedin](https://www.linkedin.com/in/pablo-boer-1616735a/)
+ - [Pablo Boer](https://www.linkedin.com/in/pablo-boer-1616735a/)
 
 ## Agradecimientos
  ### Muchas gracias a:
