@@ -38,10 +38,24 @@ Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Utilización
+
 Ejecutar el .jar, primero elegir el tipo de conversión.
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_conversion.gif)
+
+Si elige conversión de Monedas:
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/monedas.gif)
+
+Si elige conversión de unidades:
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/metrico-imperial.gif)
  
- 
+En todos los casos sólo se aceptan números y el caracter de punto flotante es el punto (.)
+No tiene caracter de separación de miles.
+Si no introduce un caracter numérico, genera ventana de error y vuelve a pedir valor de entrada.
+![Alt Text](gif de ventana de error)
+
+Mensaje de confirmación y anuncio de cierre.
+![Alt Text](gif ventana de confirm y fin)
+
 
 # Conversor_Monedas
 # Conversor_Monedas
