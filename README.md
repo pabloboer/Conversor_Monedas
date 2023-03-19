@@ -25,17 +25,18 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 
 Extras:
 Se puede añadir al programa otros tipos de conversiones como temperatura, unidades de medidas de peso, longitud, etc..
+## Antes de empezar
+En este repositorio hay 2 soluciones de igual resultado pero diferente implementación. La primera, llamada Conversor_standard, que fue la primer implementación y luego a modo de ejercicio realice la implementación con la arquitectura Modelo-Vista-Controlador, llamada Conversor_MVC.
 
 ## Para empezar
-Para empezar debes clonar el repositorio y ejecutar el archivo conversor.jar
+Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .jar o pudes descargar directamente el .jar que desees.
 
 ## Pre-requisitos
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Utilización
 
-```
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif?raw=true)
-```
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif)
+
 # Conversor_Monedas
 # Conversor_Monedas
