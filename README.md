@@ -25,8 +25,11 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 
 Extras:
 Se puede añadir al programa otros tipos de conversiones como temperatura, unidades de medidas de peso, longitud, etc..
+
 ## Antes de empezar
-En este repositorio hay 2 soluciones de igual resultado pero diferente implementación. La primera, llamada Conversor_standard, que fue la primer implementación y luego a modo de ejercicio realice la implementación con la arquitectura Modelo-Vista-Controlador, llamada Conversor_MVC.
+ - En este repositorio hay 2 soluciones de igual resultado pero diferente implementación. La primera, llamada Conversor_standard, que fue la primer implementación y luego a modo de ejercicio realice la implementación con la arquitectura Modelo-Vista-Controlador, llamada Conversor_MVC. 
+ - En ambas soluciones se implementó como extra un conversor de unidades Imperiales a Métricas y viceversa. 
+ - Se realizó según la lógica y estética de las tarjetas de trello, utilizando la clase JOPtionPane.
 
 ## Para empezar
 Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .jar o pudes descargar directamente el .jar que desees.
@@ -35,8 +38,10 @@ Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
 
 ## Utilización
-
+ 1 - Ejecutar el .jar, primero elegir el tipo de conversión.
 ![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_principal.gif)
+ 
+ 2 - 
 
 # Conversor_Monedas
 # Conversor_Monedas
