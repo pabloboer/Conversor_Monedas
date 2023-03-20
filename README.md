@@ -70,25 +70,25 @@ Ejecutar el .jar
 
 Primero elegir el tipo de conversión:
 
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/menu_conversion.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/tree/master/gifs/menu_conversion.gif)
 
 Si elige conversión de Monedas:
 
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/monedas.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/tree/master/gifs/monedas.gif)
 
 Si elige conversión de unidades:
 
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/metrico-imperial.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/tree/master/gifs/metrico-imperial.gif)
  
 En todos los casos sólo se aceptan números y el caracter de punto flotante es el punto (.)
 No ingresar caracter de separación de miles.
 Si no introduce un caracter numérico, genera ventana de error y vuelve a pedir valor de entrada.
 
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/error.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/tree/master/gifs/error.gif)
 
 Mensaje de confirmación y anuncio de cierre.
 
-![Alt Text](https://github.com/pabloboer/Conversor_Monedas/blob/master/fin.gif)
+![Alt Text](https://github.com/pabloboer/Conversor_Monedas/tree/master/gifs/fin.gif)
 
 
 ## Herramientas utilizadas
