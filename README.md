@@ -28,11 +28,14 @@ Se puede añadir al programa otros tipos de conversiones como temperatura, unida
 
 ## Antes de empezar
  - En este repositorio hay 2 soluciones de igual resultado pero diferente implementación. La primera, llamada Conversor_standard, que fue la primer implementación y luego a modo de ejercicio realice la implementación con la arquitectura Modelo-Vista-Controlador, llamada Conversor_MVC. 
- - En ambas soluciones se implementó como extra un conversor de unidades Imperiales a Métricas y viceversa.           
+ - En ambas soluciones se implementó como extra un conversor de unidades Imperiales a Métricas y viceversa.
+ - La interfaz gráfica se realizó únicamente utilizando la biblioteca javax.swing para conocerla y aprender a utilizarla.
  - Se realizó según la lógica y estética de las tarjetas de trello, utilizando la clase JOPtionPane.
 
 ## Para empezar
 Para empezar pudes clonar el repositorio y ejecutar cualquiera de los archivos .jar o pudes descargar directamente el .jar que desees.
+ -Descargar [Conversor_standard](https://github.com/pabloboer/Conversor_Monedas/blob/master/Convertidor_standard.jar)
+ -Descargar [Conversor_MVC](https://github.com/pabloboer/Conversor_Monedas/blob/master/Convertidor_MVC.jar)
 
 ## Pre-requisitos
 Para poder ejecutar el programa debes tener instalado la maquina virtual de java JRE de Java. Puedes descargarlo [aqui](https://www.java.com/en/download/) y luego instalarlo siguiendo las instrucciones.
